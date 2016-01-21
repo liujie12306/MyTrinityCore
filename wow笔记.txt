@@ -1,0 +1,53 @@
+﻿Race IDs: 种族
+
+Human = 1   人类
+Dwarf = 2
+Night Elf = 3
+Undead = 4
+Tauren = 5
+Gnome = 6
+Troll =7
+Blood Elf =8
+Goblin = 9
+Draenei =10
+Orc = 11
+Worgen = 22
+
+1人类(Human) 
+2兽人(Orc) 
+3矮人(Dwarf) [dwɔːrf]	
+4暗精(NightElf) 
+5亡灵(Scourge)[skɜːrdʒ] 
+6牛头(Tauren)['taʊrən]	
+7侏儒(Gnome)[noʊm]	 
+8巨魔(Troll) 
+9地精(Goblin)
+10血精灵(BloodElf) 
+11德莱尼(Draenei)
+22狼人(Worgen)[wɜːrgin]
+23狼人人型(Human)
+
+
+
+
+
+
+
+
+Class IDs:
+
+Warrior = 1
+Paladin = 2    圣骑士['pælədɪn]
+Hunter = 3
+Rogue = 4      盗贼[roʊɡ]	
+Priest =5
+Deathknight = 6
+Shaman = 7
+Mage = 8     法师[meɪdʒ]
+Warlock = 9  术士['wɔːlɒk]
+Druid = 11    德鲁伊['druːɪd]
+
+
+
+
+http://pastebin.com/E3EAm9a9
